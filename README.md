@@ -3,11 +3,11 @@ For this project we will need node_modules folder which you can call after runni
 ## You can also directly run on replit.
 
 
-CMDS
-a)  npx hardhat test
-b) npx hardhat node
-  Now in new terminal 
-c) npx hardhat run ./scripts/deploy.js --network localhost
-d) npm run start
+# Commands
+###  npx hardhat test
+### npx hardhat node
+ ## Now in new terminal 
+### npx hardhat run ./scripts/deploy.js --network localhost
+### npm run start
 
 No you can see our model.
