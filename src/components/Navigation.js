@@ -11,9 +11,7 @@ const Navigation = ({ account, setAccount }) => {
     return (
         <nav>
             <ul className='nav__links'>
-                <li><a href="#">Buy</a></li>
-                <li><a href="#">Rent</a></li>
-                <li><a href="#">Sell</a></li>
+            <li><a href="#contact-form">About Us</a></li>
             </ul>
 
             <div className='nav__brand'>

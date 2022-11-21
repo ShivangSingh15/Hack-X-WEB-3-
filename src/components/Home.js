@@ -145,9 +145,10 @@ const Home = ({ home, provider, account, escrow, togglePop }) => {
                                 </button>
                             )}
 
-                            <button className='home__contact'>
-                                Contact agent
-                            </button>
+                        <a href="mailto:sasindustries@gmail.com">
+                            <button class="home__contact">Contact agent</button>
+                        </a>
+                        
                         </div>
                     )}
 
